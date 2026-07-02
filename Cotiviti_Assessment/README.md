@@ -17,11 +17,11 @@ A local-first, privacy-safe POC that ingests CMS Benefit Policy Manual PDFs, ans
            │  mode dispatch
      ┌─────┴─────────────────────────────────────────────┐
      │                                                   │
-  Ask / Summarize / Policy→Code               Compare Chapters
-  (retrieve.py / summarize.py /               (compare.py)
-   policy_to_code.py)
-           │
-  ┌────────┴──────────────────────────────────────────────────────┐
+  Ask / Summarize /  Compare Chapters                  Policy→Code
+  (retrieve.py / summarize.py /               (policy_to_code.py)
+   compare.py)                                     |
+           │                                       |
+  ┌────────┴───────────────────────────────────────|───────────────┐
   │                        src/  pipeline                         │
   │                                                               │
   │  ingest.py         ──►  ChromaDB  (data/chroma/)             │
