@@ -182,7 +182,7 @@ pytest eval/ -v
 ## Deliverables
 
 - Demo video: [Google Drive link](https://drive.google.com/file/d/15qaWm1H3VKCkVASXl4zT09Dm7gNNpcXI/view?usp=sharing)
-- Report: `Cotiviti_Report_sub (1).docx`
+- Report: `Cotiviti_Report_sub.docx`
 - Slide decks:
-  - `Cotiviti_POC_Deck (1).pptx`
+  - `Cotiviti_POC_Deck.pptx`
   - `system_design_slide.pptx`
