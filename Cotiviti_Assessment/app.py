@@ -388,7 +388,7 @@ WELCOME_HTML = """
   <!-- Subtitle -->
   <p style="color:#8b949e;font-size:0.95rem;margin:0 0 10px;line-height:1.7">
     AI-powered Medicare policy analysis grounded in the CMS Benefit Policy Manual.<br>
-    Every answer is cited. No hallucination. Runs fully local.
+    Every answer is cited. Runs fully local.
   </p>
 
   <!-- Model badge -->
